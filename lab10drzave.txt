@@ -1,0 +1,40 @@
+Hrvatska, hrvatska.txt
+Francuska, francuska.txt
+Japan, japan.txt
+Brazil, brazil.txt
+Slovacka, slovacka.txt
+
+hrvatska.txt
+Zadar, 70829
+Osijek, 96848
+Slavonski Brod, 50039
+Zagreb, 769944
+Split, 161312
+
+francuska.txt
+Lyon, 472317
+Bordeaux, 231844
+Paris, 2138551
+Marseille, 794811
+Nice, 338620
+
+japan.txt
+Yokohama, 3732616
+Fukuoka, 1588924
+Kyoto, 1464890
+Tokyo, 9375104
+Hiroshima, 1199391
+
+brazil.txt
+Sao Paulo, 11451245
+Salvador, 2418005
+Manaus, 2063547
+Rio de Janeiro, 6211423
+Brasilia, 2817068
+
+slovacka.txt
+Banska Bystrica, 82336
+Bratislava, 423737
+Kosice, 236563
+Nitra, 86329
+Trencin, 58278
